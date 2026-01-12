@@ -1,0 +1,10 @@
+a=int(input("Enter the first number:"));
+b=int(input("Enter the second number:"));
+A=a+b;
+S=a-b;
+M=a*b;
+D=a/b;
+print(f"\nAddition:{A}");
+print(f"\nSubtraction:{S}");
+print(f"\nMultiplication:{M}");
+print(f"\ndivision:{D}");
